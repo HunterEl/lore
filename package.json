@@ -1,0 +1,8 @@
+{
+  "name": "console_lore",
+  "version": "1.0.0",
+  "description": "they will sing songs about us...",
+  "main": "index.js",
+  "author": "hunterel",
+  "license": "ISC"
+}
