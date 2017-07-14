@@ -4,5 +4,11 @@
   "description": "they will sing songs about us...",
   "main": "index.js",
   "author": "hunterel",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
 }
