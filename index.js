@@ -19,7 +19,6 @@ module.exports = function() {
 
     console.lore = function(arg) {
         let phrase = _phrases[Math.floor(Math.random() * _phrases.length)];
-        JSON.stringify()
         console.log(phrase + " '"  + JSON.stringify(arg) + "'.");
     };  
 
