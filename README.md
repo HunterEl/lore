@@ -1,14 +1,28 @@
 # lore
 They will sing songs about us... 🐉 ⚔ 💀
 
+[![npm version](https://badge.fury.io/js/lore-console.svg)](https://badge.fury.io/js/lore-console)
+[![Build Status](https://travis-ci.org/HunterEl/lore.svg?branch=master)](https://travis-ci.org/HunterEl/lore)
+[![Coverage Status](https://coveralls.io/repos/github/HunterEl/lore/badge.svg?branch=master)](https://coveralls.io/github/HunterEl/lore?branch=master)
+
 # What Is this?
-It's a way spice up printing. Tell a tale while debugging.
+It's a way to spice up printing. Tell a tale while debugging.
 
 # Why In The World Would I Use This?
 That's a great question. I'm not too sure. Maybe you are like me, and looking at `console.log`s was no longer fun. 
 
 # How Do I Use This Garbage Library?
-Run `npm i -D lore-console` in whatever project you want to use it in. Or `npm i -g lore-console` for global usage.
+Run 
+
+`npm i -D lore-console` 
+
+in whatever project you want to use it in. 
+
+Or 
+
+`npm i -g lore-console` 
+
+for global usage.
 
 
 The general `gist` (lmao) is this:
