@@ -43,5 +43,5 @@ console.resetHistory(); // this will set the prefix list back the defaults.
 OK look, don't use this. I really made this just becase the method name sounded funny. `console.lore`, `tell a story while debugging`? Hilarious.
 
 # Contributing
-If you want to contribute to this, you probably have nothing better to do. Hontestly. 
+If you want to contribute to this, you probably have nothing better to do. Honestly. 
 
