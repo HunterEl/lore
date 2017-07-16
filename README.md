@@ -9,7 +9,7 @@ They will sing songs about us... 🐉 ⚔ 💀
 It's a way to spice up printing. Tell a tale while debugging.
 
 # Why In The World Would I Use This?
-That's a great question. I'm not too sure. Maybe you are like me, and looking at `console.log`s was no longer fun. 
+That's a great question. I'm not too sure. Maybe you are like me, and looking at `console.log`s is no longer fun. 
 
 # How Do I Use This Garbage Library?
 Run 
